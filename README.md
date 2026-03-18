@@ -83,6 +83,3 @@ sonicforge/
 └── package.json
 ```
 
-## License
-
-MIT
